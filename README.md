@@ -17,6 +17,8 @@ t*\sin(0.5236)+e^{0.03\left|t\right|}\cdot\sin(0.3t)\cos(0.5236)\right)"
 
 ## Approach
 
+![Handwritten Note](1000409637.jpg)
+
 The two given equations can be rewritten as a 2D rotation matrix applied to a base signal. 
 
 ```
